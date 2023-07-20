@@ -68,6 +68,7 @@ class NR_Deactivate {
 	private function nr_get_blacklisted_plugins() : array {
 
 		return array(
+			'Everest Backup', // https://wordpress.org/plugins/everest-backup
 			'WP File Manager', // https://wordpress.org/plugins/wp-file-manager
 			'FileBird Lite', // https://wordpress.org/plugins/filebird/
 			'File Manager Advanced', // https://wordpress.org/plugins/file-manager-advanced
