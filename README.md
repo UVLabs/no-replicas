@@ -6,7 +6,7 @@ Prevents backup and file manager plugins from being activated on a WordPress web
 
 ### Why
 
-Users kept cloning the demo sites I created for [Location Picker at Checkout](https://lpacwp.com) and [Delivery & Pickup Scheduling](https://dpswp.com). Manually deactivating the demo license from those sites was a chore.
+Users kept cloning the demo sites I created for [Kikote](https://lpacwp.com) and [Chwazi](https://chwazidatetime.com/). Manually deactivating the demo license from those sites was a chore.
 
 ### How to use
 
